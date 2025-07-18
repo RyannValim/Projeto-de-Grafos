@@ -1,4 +1,4 @@
-# Projeto-de-Grafos
+# Projeto de Grafos
 Aplicação desenvolvida durante o 3° período de Ciência da Computação para a matéria de Estruturas de Dados Aplicadas.
 
 Objetivos: desenvolver o aprendizado na matéria de Estruturas de Dados Aplicadas utilizando a linguagem de programação C.
